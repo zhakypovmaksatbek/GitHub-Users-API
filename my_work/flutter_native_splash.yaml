@@ -1,0 +1,15 @@
+flutter_native_splash:
+  image: "assets/images/github.png"
+  background_image: "assets/images/github.png"
+  icon_background_color: "#FFFFFF"
+
+  color: "#FFFFFF"
+  android: true
+  ios: true
+  android_12:
+    color: "#FFFFFF"
+    image: "assets/images/github.png"
+    background_image: "assets/images/github.png"
+    icon_background_color: "#FFFFFF"
+
+  
